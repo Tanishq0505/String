@@ -1,4 +1,6 @@
 // Check if the word is Palindrome or not. 
+// gfg
+
 // Ex- In this question upper- and lower-case letter are not considered as same for ex 
 // We have Noon this is not palindrome as first and last n are upper and lower case it considers different 
 // But NOON it is considered as palindrome as all letters are uppercase. 
